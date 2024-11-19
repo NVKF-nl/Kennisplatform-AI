@@ -28,8 +28,8 @@ If you wish to extend the interaction with the tables, you can sort the columns 
 
 | Date   | Name | Type | Location |
 |:-:|:-:|:-:|:-:|
-| 2024-11-21 |	Innovations in AI for Healthcare |		Symposium  | UMC Groningen |
-| 2025-01-17 |	ISMRM Benelux |	Congress  | Hilversum, NL |
+| 2024-11-21 |	[Innovations in AI for Healthcare](https://umcgresearch.org/w/innovations-in-ai-for-healthcare) |		Symposium  | UMC Groningen |
+| 2025-01-17 |	[ISMRM Benelux chapter](https://www.ismrm-benelux.org/annual-meetings/ismrm-benelux-chapter-17th-annual-meeting/)  |	Annual Meeting  | Hilversum, NL |
 
 
 
