@@ -1,7 +1,7 @@
 # Kennisplatform AI
 
 Repository to collect organize a list of reference/material from the Kennisplatform AI of the NVKF.
-This page is available at: [https://matteomaspero.github.io/nvkf_kp_ai/](https://matteomaspero.github.io/nvkf_kp_ai/) and its Github repository is: [https://github.com/matteomaspero/nvkf_kp_ai/](https://github.com/matteomaspero/nvkf_kp_ai/).
+This page is available at: [https://matteomaspero.github.io/nvkf_kp_ai/](https://matteomaspero.github.io/nvkf_kp_ai/) and its Github repository is: [https://matteomaspero.github.io/NVFK_KP_AI/](https://matteomaspero.github.io/NVFK_KP_AI/).
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
@@ -17,22 +17,12 @@ This work is licensed under a
 
 In short, this means that anyone, even a commercial entity may re-use the content of this page as long as it will cite our paper and the source.
 
-## Contributors
-
-At the moment Maspero M is the owner administrator of the project, and it has been made as an example for an official github page.
-
-The following added content: ...
-
 ## Make the table sortable
 
 If you wish to extend the interaction with the tables, you can sort the columns in your favourite browser, as described [here](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content). We have tested on Chrome the following combination:
 * install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related);
 * install [Github Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content);
 
-## If you see any typos/mistakes
-
-Ok, we did our best, but you got us! That can happen, but you can contribute to the accuracy of the information in this page by proposing a commit, after having forked this repository. Matteo will keep monitored the repository and update it every two months.
-If you wish to see some changes, just reach out; we are more than happy to hear your comments/suggestions.
 
 ## Events
 
@@ -51,3 +41,14 @@ Abdomen |	10<sup>v</sup>	|		2019-11-06 |
 | Date   | Name | Type |
 |:-:|:-:|:-:|
 Abdomen |	10<sup>v</sup>	|		2019-11-06 |
+
+## Contributors
+
+At the moment Maspero M is the owner administrator of the project, and it has been made as an example for an official github page.
+
+The following added content: ...
+
+## If you see any typos/mistakes
+
+Ok, we did our best, but you got us! That can happen, but you can contribute to the accuracy of the information in this page by proposing a commit, after having forked this repository. Matteo will keep monitored the repository and update it every two months.
+If you wish to see some changes, just reach out; we are more than happy to hear your comments/suggestions.
