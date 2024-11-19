@@ -26,9 +26,12 @@ If you wish to extend the interaction with the tables, you can sort the columns 
 
 ## Events
 
-| Date   | Name | Type |
-|:-:|:-:|:-:|
-Abdomen |	10<sup>v</sup>	|		2019-11-06 |
+| Date   | Name | Type | Location |
+|:-:|:-:|:-:|:-:|
+| 2024-11-21 |	Innovations in AI for Healthcare |		Symposium  | UMC Groningen |
+| 2025-01-17 |	ISMRM Benelux |	Congress  | Hilversum, NL |
+
+
 
 ## Courses
 
