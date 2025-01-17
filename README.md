@@ -1,5 +1,3 @@
-# Kennisplatform AI
-
 Repository to collect organize a list of courses, reference/material maintained by the Kennisplatform AI of the NVKF (Dutch Society of Medical Physicist).
 This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https://nvkf-nl.github.io/Kennisplatform-AI/) and editable by the member of the Kenniplatform via [https://github.com/NVKF-nl/Kennisplatform-AI/](https://github.com/NVKF-nl/Kennisplatform-AI/).
 
