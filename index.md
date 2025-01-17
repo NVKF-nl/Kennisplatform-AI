@@ -9,8 +9,8 @@ This repository will be used to collect and organize a list of courses, referenc
 This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https://nvkf-nl.github.io/Kennisplatform-AI/) and editable by the member of the Kenniplatform via [https://github.com/NVKF-nl/Kennisplatform-AI/](https://github.com/NVKF-nl/Kennisplatform-AI/).
 
 ## [Events](/events.md)
-## [Courses](/courses/md)
-## [Resources](resources.md)
+## [Courses](/courses.md)
+## [Resources](/resources.md)
 
 ## If you see any typos/mistakes
 
