@@ -106,13 +106,11 @@ nvkf-kennisplatform-ai/
 If you have any questions or need assistance, contact the NVKF Kennisplatform AI team:
 
 - **Hanneke Bluemink**: [email@example.com](mailto:email@example.com)
-- **Matteo Maspero**: [m.maspero@umcutrecht.n](mailto:m.maspero@umcutrecht.nl)
+- **Matteo Maspero**: [m.maspero@umcutrecht.nl](mailto:m.maspero@umcutrecht.nl)
 - **Charlotte Brouwer**: [email@example.com](mailto:email@example.com)
 
 ---
 
 Thank you for contributing to the NVKF Kennisplatform AI repository! Your work helps advance the field of AI in healthcare and supports the NVKF’s mission. 🚀
 
----
-
-Let me know if you need further clarification or updates! 😊
+On behalf of the Kennisplatform core team
