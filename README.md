@@ -3,7 +3,7 @@
 Repository to collect and organize a list of courses, references/material maintained by the Kennisplatform AI of the NVKF (Dutch Society of Medical Physicists).
 This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https://nvkf-nl.github.io/Kennisplatform-AI/) and editable by the member of the Kenniplatform via [https://github.com/NVKF-nl/Kennisplatform-AI/](https://github.com/NVKF-nl/Kennisplatform-AI/).
 
-## Events
+## [Events](/events.md)
 | Date   | Name | Type | Location |
 |:-:|:-:|:-:|:-:|
 | 2024-11-21 |	[Innovations in AI for Healthcare](https://umcgresearch.org/w/innovations-in-ai-for-healthcare) |		Symposium  | UMC Groningen |
