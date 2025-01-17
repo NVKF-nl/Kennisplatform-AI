@@ -3,18 +3,18 @@
 Repository to collect and organize a list of courses, references/material maintained by the Kennisplatform AI of the NVKF (Dutch Society of Medical Physicists).
 This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https://nvkf-nl.github.io/Kennisplatform-AI/) and editable by the member of the Kenniplatform via [https://github.com/NVKF-nl/Kennisplatform-AI/](https://github.com/NVKF-nl/Kennisplatform-AI/).
 
-## <li><a href="{{ '/events' | relative_url }}">Events</a></li>
+## Events
 | Date   | Name | Type | Location |
 |:-:|:-:|:-:|:-:|
 | 2024-11-21 |	[Innovations in AI for Healthcare](https://umcgresearch.org/w/innovations-in-ai-for-healthcare) |		Symposium  | UMC Groningen |
 | 2025-01-17 |	[ISMRM Benelux chapter](https://www.ismrm-benelux.org/annual-meetings/ismrm-benelux-chapter-17th-annual-meeting/)  |	Annual Meeting  | Hilversum, NL |
 
-## <li><a href="{{ '/courses' | relative_url }}">Courses</a></li>
+## Courses
 | Date   | Name | Type |
 |:-:|:-:|:-:|
 Abdomen |	10<sup>v</sup>	|		2019-11-06 |
 
-## <li><a href="{{ '/resources' | relative_url }}">Resources</a></li>
+## Resources
 | Date   | Name | Type |
 |:-:|:-:|:-:|
 Abdomen |	10<sup>v</sup>	|		2019-11-06 |
