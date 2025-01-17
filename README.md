@@ -9,12 +9,12 @@ This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https:
 | 2024-11-21 |	[Innovations in AI for Healthcare](https://umcgresearch.org/w/innovations-in-ai-for-healthcare) |		Symposium  | UMC Groningen |
 | 2025-01-17 |	[ISMRM Benelux chapter](https://www.ismrm-benelux.org/annual-meetings/ismrm-benelux-chapter-17th-annual-meeting/)  |	Annual Meeting  | Hilversum, NL |
 
-##<li><a href="{{ '/courses' | relative_url }}">Courses</a></li>
+## <li><a href="{{ '/courses' | relative_url }}">Courses</a></li>
 | Date   | Name | Type |
 |:-:|:-:|:-:|
 Abdomen |	10<sup>v</sup>	|		2019-11-06 |
 
-##<li><a href="{{ '/resources' | relative_url }}">Resources</a></li>
+## <li><a href="{{ '/resources' | relative_url }}">Resources</a></li>
 | Date   | Name | Type |
 |:-:|:-:|:-:|
 Abdomen |	10<sup>v</sup>	|		2019-11-06 |
