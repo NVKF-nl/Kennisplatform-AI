@@ -1,22 +1,34 @@
 ---
 layout: sidebar
-title: Courses
+title: Events
 ---
 
-## Courses
+## Events
 
-### Available Courses
-- **Introduction to Medical Image Analysis**  
-  Instructor: Dr. Matteo Maspero  
-  Duration: 6 weeks  
-  Description: Learn the fundamentals of medical image analysis.
+### Upcoming Events
 
-- **Deep Learning in Healthcare**  
-  Instructor: Dr. Jane Doe  
-  Duration: 8 weeks  
-  Description: Explore the applications of deep learning in healthcare.
+#### Deep Learning in Radiotherapy Workshop
+- **Date**: March 17-17, 2025
+- **Location**: Utrecht, Netherlands
+- **Description**: A workshop focusing on deep learning applications in radiotherapy.
+- **Registration**: [DL in RT Workshop](http://www.dlinrt.org/)
 
-### Upcoming Courses
-- **Advanced Topics in AI for Radiology**  
-  Start Date: January 2024  
-  Description: A deep dive into AI applications in radiology.
+### Past Events
+
+#### International School on Deep Learning
+- **Date**: July 15-19, 2024
+- **Location**: Porto, Portugal
+- **Description**: A 5-day course on deep learning techniques and applications.
+- **Registration**: [DeepLearn 2024](https://deeplearn.irdta.eu/2024/)
+
+#### NVKF AI Symposium 2023
+- **Date**: October 10, 2023
+- **Location**: Amsterdam, Netherlands
+- **Description**: A symposium discussing the future of AI in clinical physics and healthcare.
+- **Materials**: [Download Presentations](https://example.com)
+
+#### AI in Healthcare Conference
+- **Date**: November 15, 2023
+- **Location**: Online
+- **Description**: A conference on the latest advancements in AI for healthcare.
+- **Materials**: [Download Materials](https://example.com)
