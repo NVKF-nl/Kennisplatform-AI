@@ -1,9 +1,10 @@
-Repository to collect organize a list of courses, reference/material maintained by the Kennisplatform AI of the NVKF (Dutch Society of Medical Physicist).
+#
+Repository to collect and organize a list of courses, references/material maintained by the Kennisplatform AI of the NVKF (Dutch Society of Medical Physicists).
 This page is available at: [https://nvkf-nl.github.io/Kennisplatform-AI/](https://nvkf-nl.github.io/Kennisplatform-AI/) and editable by the member of the Kenniplatform via [https://github.com/NVKF-nl/Kennisplatform-AI/](https://github.com/NVKF-nl/Kennisplatform-AI/).
 
 ## Make the table sortable
 
-If you wish to extend the interaction with the tables, you can sort the columns in your favourite browser, as described [here](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content). We have tested on Chrome the following combination:
+If you wish to extend the interaction with the tables, you can sort the columns in your favorite browser, as described [here](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content). We have tested on Chrome the following combination:
 * install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related);
 * install [Github Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content);
 
@@ -29,9 +30,8 @@ Abdomen |	10<sup>v</sup>	|		2019-11-06 |
 
 ## If you see any typos/mistakes
 
-Ok, we did our best, but you got us! That can happen, but you can contribute to the accuracy of the information on this page by proposing a commit after having forked this repository. Matteo will keep monitored the repository and update it every two months.
-If you wish to see some changes, just reach out; we are more than happy to hear your comments/suggestions.
-
+Ok, we did our best, but you got us! That can happen, but you can contribute to the accuracy of the information on this page by proposing a commit after having forked this repository. Matteo will keep monitoring the repository and update it every two months.
+If you wish to see some changes, reach out; we are happy to hear your comments/suggestions.
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] 
