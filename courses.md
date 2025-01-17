@@ -1,34 +1,35 @@
 ---
 layout: sidebar
-title: Events
+title: Courses
 ---
 
-## Events
+## Courses
 
-### Upcoming Events
+### Available Courses
 
-#### Deep Learning in Radiotherapy Workshop
-- **Date**: March 17-17, 2025
-- **Location**: Utrecht, Netherlands
-- **Description**: A workshop focusing on deep learning applications in radiotherapy.
-- **Registration**: [DL in RT Workshop](http://www.dlinrt.org/)
+#### EFOMP Course: Artificial Intelligence in Medical Physics
+- **Description**: A course on AI applications in medical physics.
+- [EFOMP AI Course](https://www.efomp.org/)
 
-### Past Events
+#### AI for Healthcare (Dutch AI Coalition)
+- **Description**: A free online course on AI applications in healthcare.
+- **Duration**: ~2.5 hours
+- [AI voor de Zorg](https://ai-cursus.nl/)
 
-#### International School on Deep Learning
-- **Date**: July 15-19, 2024
-- **Location**: Porto, Portugal
-- **Description**: A 5-day course on deep learning techniques and applications.
-- **Registration**: [DeepLearn 2024](https://deeplearn.irdta.eu/2024/)
+#### RSNA Imaging AI Certificate Program
+- **Description**: An online course for radiology professionals.
+- **Duration**: ~3 days
+- [RSNA Imaging AI Certificate](https://www.rsna.org/education/imaging-ai-certificate)
 
-#### NVKF AI Symposium 2023
-- **Date**: October 10, 2023
-- **Location**: Amsterdam, Netherlands
-- **Description**: A symposium discussing the future of AI in clinical physics and healthcare.
-- **Materials**: [Download Presentations](https://example.com)
+### Upcoming Courses
 
-#### AI in Healthcare Conference
-- **Date**: November 15, 2023
-- **Location**: Online
-- **Description**: A conference on the latest advancements in AI for healthcare.
-- **Materials**: [Download Materials](https://example.com)
+#### ESTRO Course: AI in Radiotherapy
+- **Start Date**: 2025
+- **Description**: A course on AI applications in radiotherapy.
+- [ESTRO AI Course](https://www.estro.org/)
+
+#### 2-Yearly Course in Maastricht
+- **Description**: A course covering radiomics, deep learning, and generative AI.
+- [AI4Imaging](https://ai4imaging.org/)
+
+### Past Courses
